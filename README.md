@@ -3,6 +3,6 @@
 
 ### Authors
 
-> [dmitryblackwell](https://github.com/dmitryblackwell)
-> [darianderson](https://github.com/darianderson)
-> [JanIncorporated] (https://github.com/JanIncorporated)
+> [dmitryblackwell](https://github.com/dmitryblackwell) <br>
+> [darianderson](https://github.com/darianderson) <br>
+> [JanIncorporated](https://github.com/JanIncorporated) <br>
