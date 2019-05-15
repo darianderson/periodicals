@@ -1,15 +1,14 @@
-package com.blackwell.web;
+package com.periodicals.web;
 
-import com.blackwell.constant.PageConstants;
-import com.blackwell.converter.BookToDTOConverter;
-import com.blackwell.entity.Book;
-import com.blackwell.entity.Comment;
-import com.blackwell.entity.Genre;
-import com.blackwell.model.BookDTO;
-import com.blackwell.service.BookService;
-import com.blackwell.service.CommentService;
-import com.blackwell.service.FileUploadService;
-import com.blackwell.util.GenreEditor;
+import com.periodicals.constant.PageConstants;
+import com.periodicals.converter.BookToDTOConverter;
+import com.periodicals.entity.Book;
+import com.periodicals.entity.Comment;
+import com.periodicals.entity.Genre;
+import com.periodicals.service.BookService;
+import com.periodicals.service.CommentService;
+import com.periodicals.service.FileUploadService;
+import com.periodicals.util.GenreEditor;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Pageable;
@@ -26,7 +25,6 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpSession;
 import java.io.File;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @Controller
 @RequestMapping("/book")

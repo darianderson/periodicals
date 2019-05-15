@@ -1,6 +1,6 @@
-package com.blackwell.repository;
+package com.periodicals.repository;
 
-import com.blackwell.entity.Author;
+import com.periodicals.entity.Author;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

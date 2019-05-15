@@ -1,9 +1,9 @@
-package com.blackwell.converter;
+package com.periodicals.converter;
 
-import com.blackwell.entity.Author;
-import com.blackwell.entity.Book;
-import com.blackwell.entity.Genre;
-import com.blackwell.model.BookDTO;
+import com.periodicals.entity.Author;
+import com.periodicals.entity.Book;
+import com.periodicals.entity.Genre;
+import com.periodicals.model.BookDTO;
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package com.blackwell.entity;
+package com.periodicals.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -17,7 +17,7 @@ import javax.persistence.*;
 public class Order {
 
     @Id
-    @GenericGenerator(name = "sequence_dep_id", strategy = "com.blackwell.util.OrderNoGenerator")
+    @GenericGenerator(name = "sequence_dep_id", strategy = "OrderNoGenerator")
     @GeneratedValue(generator = "sequence_dep_id")
     private String id;
 

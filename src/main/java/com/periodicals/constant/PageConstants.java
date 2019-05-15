@@ -1,4 +1,4 @@
-package com.blackwell.constant;
+package com.periodicals.constant;
 
 public class PageConstants {
 	public static final String REDIRECT_HOME = "redirect:/";

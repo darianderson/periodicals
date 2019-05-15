@@ -1,12 +1,12 @@
-package com.blackwell.util;
+package com.periodicals.util;
 
 import java.beans.PropertyEditorSupport;
 
-import com.blackwell.entity.Genre;
+import com.periodicals.entity.Genre;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.blackwell.service.BookService;
+import com.periodicals.service.BookService;
 
 @Component
 public class GenreEditor extends PropertyEditorSupport {

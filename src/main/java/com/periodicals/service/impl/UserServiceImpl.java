@@ -1,8 +1,8 @@
-package com.blackwell.service.impl;
+package com.periodicals.service.impl;
 
-import com.blackwell.entity.User;
-import com.blackwell.repository.UserRepository;
-import com.blackwell.service.UserService;
+import com.periodicals.entity.User;
+import com.periodicals.repository.UserRepository;
+import com.periodicals.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

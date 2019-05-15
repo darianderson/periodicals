@@ -1,4 +1,4 @@
-package com.blackwell.model;
+package com.periodicals.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Value;

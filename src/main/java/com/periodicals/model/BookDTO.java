@@ -1,4 +1,4 @@
-package com.blackwell.model;
+package com.periodicals.model;
 
 import lombok.Builder;
 import lombok.Data;

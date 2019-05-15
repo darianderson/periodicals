@@ -1,12 +1,8 @@
-package com.blackwell.service.impl;
+package com.periodicals.service.impl;
 
-import com.blackwell.entity.Book;
-import com.blackwell.entity.Comment;
-import com.blackwell.entity.User;
-import com.blackwell.repository.BookRepository;
-import com.blackwell.repository.CommentRepository;
-import com.blackwell.repository.UserRepository;
-import com.blackwell.service.CommentService;
+import com.periodicals.entity.Comment;
+import com.periodicals.repository.CommentRepository;
+import com.periodicals.service.CommentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package com.blackwell.web;
+package com.periodicals.web;
 
-import com.blackwell.service.OrderService;
+import com.periodicals.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;

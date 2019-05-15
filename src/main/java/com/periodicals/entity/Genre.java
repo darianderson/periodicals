@@ -1,4 +1,4 @@
-package com.blackwell.entity;
+package com.periodicals.entity;
 
 
 import lombok.AllArgsConstructor;

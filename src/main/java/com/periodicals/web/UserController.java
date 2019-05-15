@@ -1,9 +1,9 @@
-package com.blackwell.web;
+package com.periodicals.web;
 
-import com.blackwell.constant.PageConstants;
-import com.blackwell.entity.Order;
-import com.blackwell.entity.User;
-import com.blackwell.service.*;
+import com.periodicals.constant.PageConstants;
+import com.periodicals.entity.Order;
+import com.periodicals.entity.User;
+import com.periodicals.service.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.core.context.SecurityContextHolder;

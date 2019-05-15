@@ -1,8 +1,7 @@
-package com.blackwell.web;
+package com.periodicals.web;
 
-import com.blackwell.entity.Author;
-import com.blackwell.model.SuggestionDTO;
-import com.blackwell.repository.AuthorRepository;
+import com.periodicals.model.SuggestionDTO;
+import com.periodicals.repository.AuthorRepository;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

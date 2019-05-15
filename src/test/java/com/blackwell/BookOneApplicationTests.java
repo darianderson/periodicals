@@ -1,4 +1,4 @@
-package com.periodicals;
+package com.blackwell;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,6 +1,6 @@
-package com.blackwell.service;
+package com.periodicals.service;
 
-import com.blackwell.entity.Comment;
+import com.periodicals.entity.Comment;
 
 import java.util.List;
 

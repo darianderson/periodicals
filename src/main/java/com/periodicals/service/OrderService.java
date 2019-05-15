@@ -1,6 +1,6 @@
-package com.blackwell.service;
+package com.periodicals.service;
 
-import com.blackwell.entity.Order;
+import com.periodicals.entity.Order;
 
 import java.util.List;
 

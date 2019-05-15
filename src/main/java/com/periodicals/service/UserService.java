@@ -1,6 +1,6 @@
-package com.blackwell.service;
+package com.periodicals.service;
 
-import com.blackwell.entity.User;
+import com.periodicals.entity.User;
 
 public interface UserService {
     User getUser(String username);

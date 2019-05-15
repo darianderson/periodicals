@@ -1,8 +1,8 @@
-package com.blackwell.service;
+package com.periodicals.service;
 
-import com.blackwell.entity.Book;
-import com.blackwell.entity.Genre;
-import com.blackwell.model.BookDTO;
+import com.periodicals.entity.Book;
+import com.periodicals.entity.Genre;
+import com.periodicals.model.BookDTO;
 
 import java.util.List;
 

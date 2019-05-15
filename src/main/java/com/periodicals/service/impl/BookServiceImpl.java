@@ -1,15 +1,15 @@
-package com.blackwell.service.impl;
+package com.periodicals.service.impl;
 
-import com.blackwell.converter.BookToDTOConverter;
-import com.blackwell.entity.Book;
-import com.blackwell.entity.Genre;
-import com.blackwell.model.BookDTO;
-import com.blackwell.model.ScoreDTO;
-import com.blackwell.repository.BookRepository;
-import com.blackwell.repository.CommentRepository;
-import com.blackwell.repository.GenreRepository;
-import com.blackwell.service.BookService;
-import com.blackwell.util.ServiceUtils;
+import com.periodicals.converter.BookToDTOConverter;
+import com.periodicals.entity.Book;
+import com.periodicals.entity.Genre;
+import com.periodicals.model.BookDTO;
+import com.periodicals.model.ScoreDTO;
+import com.periodicals.repository.BookRepository;
+import com.periodicals.repository.CommentRepository;
+import com.periodicals.repository.GenreRepository;
+import com.periodicals.service.BookService;
+import com.periodicals.util.ServiceUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.PageRequest;

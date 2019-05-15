@@ -1,10 +1,10 @@
-package com.blackwell.service.impl;
+package com.periodicals.service.impl;
 
-import com.blackwell.entity.Order;
-import com.blackwell.entity.OrderStatus;
-import com.blackwell.repository.OrderRepository;
-import com.blackwell.service.OrderService;
-import com.blackwell.util.ServiceUtils;
+import com.periodicals.entity.Order;
+import com.periodicals.entity.OrderStatus;
+import com.periodicals.repository.OrderRepository;
+import com.periodicals.service.OrderService;
+import com.periodicals.util.ServiceUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

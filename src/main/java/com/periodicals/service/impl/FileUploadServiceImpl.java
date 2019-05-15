@@ -1,6 +1,6 @@
-package com.blackwell.service.impl;
+package com.periodicals.service.impl;
 
-import com.blackwell.service.FileUploadService;
+import com.periodicals.service.FileUploadService;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 

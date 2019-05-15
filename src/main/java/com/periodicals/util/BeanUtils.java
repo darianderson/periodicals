@@ -1,4 +1,4 @@
-package com.blackwell.util;
+package com.periodicals.util;
 
 import org.apache.commons.beanutils.BeanUtilsBean;
 import org.springframework.stereotype.Service;

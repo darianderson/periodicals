@@ -1,4 +1,4 @@
-package com.blackwell.util;
+package com.periodicals.util;
 
 import java.util.List;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package com.blackwell.aop;
+package com.periodicals.aop;
 
 import lombok.Getter;
 import lombok.Setter;

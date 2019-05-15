@@ -1,4 +1,4 @@
-package com.blackwell.service;
+package com.periodicals.service;
 
 import org.springframework.web.multipart.MultipartFile;
 

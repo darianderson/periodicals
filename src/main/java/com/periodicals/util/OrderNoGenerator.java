@@ -1,4 +1,4 @@
-package com.blackwell.util;
+package com.periodicals.util;
 
 import org.hibernate.HibernateException;
 import org.hibernate.engine.spi.SharedSessionContractImplementor;
