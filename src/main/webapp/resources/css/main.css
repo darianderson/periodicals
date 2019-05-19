@@ -1,0 +1,64 @@
+
+body {
+  /*background-color: #363E4A;
+   line-height: 1.5;
+  */
+  background: linear-gradient(125deg, #F5F5F5, #FAFAFA, #EEEEEE, #F5F5F5);
+  font-family: $base-font-family;
+  font-size: 16px;
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ 
+}
+
+#username-text{
+	float:right; 
+	margin-top:20px;
+	font-size:1.2em;
+}
+#bookform{
+	float: center;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+#bookform input, #bookform select, #bookform textarea{
+	font-size: 15px;
+	border-bottom: 0px #50617A solid;
+}
+#savebook{
+	display: inline-block;
+}
+.book-edit-table tr th{
+	align-self: center;
+
+}
+#headerimg{
+	-webkit-box-shadow:
+		0 0 20px rgba(255,255,255,.6),
+		inset 0 0 20px rgba(255,255,255,1);
+	-moz-box-shadow:
+		0 0 20px rgba(255,255,255,.6),
+		inset 0 0 20px rgba(255,255,255,1);
+	box-shadow:
+		0 0 20px rgba(255,255,255,.6),
+		inset 0 0 20px rgba(255,255,255,1);
+	display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+a:hover{
+	text-decoration: none;
+}
+/*.not-allowed {cursor: not-allowed;}
+.pointer {cursor: pointer;}*/
+
+.bookTh:after {
+	content: '';
+	background:url('https://img.icons8.com/ios-glyphs/30/000000/sort-down.png');
+	background-size:cover;
+	position:absolute;
+	width:20px;
+	height:20px;
+}
